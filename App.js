@@ -91,7 +91,7 @@ export default function App(){
             {valorMoeda} {moedaSelecionada}
           </Text>
 
-          <Text style={{ fontSize: 18, color: '#000', fontWeight: '400', margin: 8 }}>
+          <Text style={{ fontSize: 19, color: '#000', fontWeight: '400', margin: 8 }}>
             Corresponde a
           </Text>
 
